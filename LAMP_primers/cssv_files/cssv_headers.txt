@@ -1,0 +1,51 @@
+>MN433962.1 Cacao swollen shoot virus isolate Pbou1, complete genome
+>MN433961.1 Cacao swollen shoot virus isolate Pbon1, complete genome
+>MN433960.1 Cacao swollen shoot virus isolate Pbon2, complete genome
+>MN433959.1 Cacao swollen shoot virus isolate Krag11, complete genome
+>MN433958.1 Cacao swollen shoot virus isolate Pbon24, complete genome
+>MN433957.1 Cacao swollen shoot virus isolate Pbon23, complete genome
+>MN433956.1 Cacao swollen shoot virus isolate Pbou22, complete genome
+>MN433955.1 Cacao swollen shoot virus isolate Krag10, complete genome
+>MN433954.1 Cacao swollen shoot virus isolate Krag9, complete genome
+>MN433953.1 Cacao swollen shoot virus isolate Krag8, complete genome
+>MN433952.1 Cacao swollen shoot virus isolate Pbou12, complete genome
+>MN433951.1 Cacao swollen shoot virus isolate Pbou3, complete genome
+>MN433950.1 Cacao swollen shoot virus isolate Pbou21, complete genome
+>MN433949.1 Cacao swollen shoot virus isolate Krag5, complete genome
+>MN433948.1 Cacao swollen shoot virus isolate Krag1, complete genome
+>MN433947.1 Cacao swollen shoot virus isolate Kipi12, complete genome
+>MN433946.1 Cacao swollen shoot virus isolate Krag15, complete genome
+>MN433945.1 Cacao swollen shoot virus isolate Kipi26, complete genome
+>MN433944.1 Cacao swollen shoot virus isolate Kipi10b, complete genome
+>MN433943.1 Cacao swollen shoot virus isolate Kipi7b, complete genome
+>MN433942.1 Cacao swollen shoot virus isolate Buyo5, complete genome
+>MN433941.1 Cacao swollen shoot virus isolate Buyo4, complete genome
+>MN433940.1 Cacao swollen shoot virus isolate Buyo7, complete genome
+>MN433939.1 Cacao swollen shoot virus isolate Buyo17, complete genome
+>MN433938.1 Cacao swollen shoot virus isolate Buyo15, complete genome
+>MN433934.1 Cacao swollen shoot virus isolate Ghana1b, complete genome
+>MN433933.1 Cacao swollen shoot virus isolate Ghana6, complete genome
+>MN179342.1 Cacao swollen shoot virus isolate CSSV-Gha4-15, complete genome
+>NC_038378.1 Cacao swollen shoot CD virus isolate CI152-09, complete genome
+>NC_001574.1 Cacao swollen shoot virus, complete genome
+>MF642717.1 Cacao swollen shoot virus isolate CI569-10, complete genome
+>KX592584.1 Cacao swollen shoot virus isolate CI286, complete genome
+>KX592583.1 Cacao swollen shoot virus isolate CIS2, complete genome
+>KX592582.1 Cacao swollen shoot virus isolate CIT5, complete genome
+>KX592581.1 Cacao swollen shoot virus isolate CI135, complete genome
+>KX592580.1 Cacao swollen shoot virus isolate C1311, complete genome
+>KX592579.1 Cacao swollen shoot virus isolate CI301, complete genome
+>KX592578.1 Cacao swollen shoot virus isolate CI134, complete genome
+>KX592577.1 Cacao swollen shoot virus isolate CI215, complete genome
+>KX592576.1 Cacao swollen shoot virus isolate CIS3, complete genome
+>KX592575.1 Cacao swollen shoot virus isolate GH75, complete genome
+>KX592574.1 Cacao swollen shoot virus isolate CI44, complete genome
+>KX592573.1 Cacao swollen shoot virus isolate CI275, complete genome
+>KX592572.1 Cacao swollen shoot virus isolate GH64, complete genome
+>KX592571.1 Cacao swollen shoot virus isolate GH67, complete genome
+>AJ781003.1 Cacao swollen shoot Togo A virus complete genome
+>JN606110.1 Cacao swollen shoot CD virus isolate CI152-09, complete genome
+>L14546.1 Cacao swollen shoot virus polyprotein gene, complete circular genome
+>AJ609019.1 Cacao swollen shoot virus complete genome, isolate Peki
+>AJ609020.1 Cacao swollen shoot virus complete genome, isolate N1A
+>AJ534983.1 Cacao swollen shoot virus ORF1, ORF2, ORF3, ORFX and ORFY, complete genome
