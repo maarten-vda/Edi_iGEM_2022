@@ -1,0 +1,80 @@
+The 1 LAMP primers:
+  F3: pos:5966,length:20 bp, primer(5'-3'):TAGCAAAAGAAGATTCCCGC
+  F2: pos:5986,length:22 bp, primer(5'-3'):ACTACTGAAAAGATATGTGCCT
+  F1c: pos:6031,length:21 bp, primer(5'-3'):GGCGTCAATTGTGGACTTGAT
+  B1c: pos:6057,length:25 bp, primer(5'-3'):TTTCGCACTCATAAAAGCATTGGAA
+  B2: pos:6125,length:18 bp, primer(5'-3'):TCGCCTGACAGTCAGTAC
+  B3: pos:6157,length:19 bp, primer(5'-3'):TGTGAGTGCTTGTCTTGTT
+  This set of LAMP primers could be used in 18 genomes, there are: MN433960.1, MN433959.1, MN433958.1, MN433956.1, MN433955.1, MN433954.1, MN433953.1, MN433952.1, MN433951.1, MN433950.1, MN433947.1, MN433946.1, MN433941.1, MN433940.1, KX592582.1, KX592581.1, KX592579.1, KX592577.1
+The 2 LAMP primers:
+  F3: pos:3713,length:25 bp, primer(5'-3'):AAGAGAAAGTCTTCATGATAAGAGA
+  F2: pos:3754,length:23 bp, primer(5'-3'):TGGTTAGGAAAGACTAATCATTG
+  F1c: pos:3795,length:21 bp, primer(5'-3'):CAATGATACTGCTGGCTGCTG
+  B1c: pos:3832,length:23 bp, primer(5'-3'):CACAATAAGGAGATCACAACGGT
+  B2: pos:3891,length:21 bp, primer(5'-3'):TGTATTCGACTCCTTAGTTGA
+  B3: pos:3912,length:20 bp, primer(5'-3'):TGAGTTTACACGTAGGACAG
+  This set of LAMP primers could be used in 6 genomes, there are: MN433945.1, MN433944.1, MN433943.1, MN433942.1, MN433941.1, MN433940.1
+The 3 LAMP primers:
+  F3: pos:5358,length:19 bp, primer(5'-3'):GCAGGGCCTATTTGAATGG
+  F2: pos:5386,length:20 bp, primer(5'-3'):CCCTTTGGGCTTAAAAATGC
+  F1c: pos:5427,length:23 bp, primer(5'-3'):TGCCTTTGAAACATTGGTCCATT
+  B1c: pos:5479,length:21 bp, primer(5'-3'):GACATCCTGGTCTTCAGCGAG
+  B2: pos:5542,length:19 bp, primer(5'-3'):GCCCATTTTCCTGACAGAT
+  B3: pos:5565,length:22 bp, primer(5'-3'):ACATATTTTACTTGGGCTTAGG
+  This set of LAMP primers could be used in 6 genomes, there are: MN433945.1, MN433944.1, MN433942.1, MN433941.1, MN433940.1, MN433939.1
+The 4 LAMP primers:
+  F3: pos:236,length:25 bp, primer(5'-3'):AATCAAGACTATTCCTATTATGCTC
+  F2: pos:274,length:22 bp, primer(5'-3'):AAAGCTGATCTTCTGTATCAGA
+  F1c: pos:315,length:20 bp, primer(5'-3'):TCTCCCAACGGCTAGACATT
+  B1c: pos:338,length:25 bp, primer(5'-3'):GTATCCAGGAATGGTATGAGAAGTC
+  B2: pos:384,length:20 bp, primer(5'-3'):TAGTAGAGGCTAGGTCTAGG
+  B3: pos:404,length:18 bp, primer(5'-3'):GGTTGTTGGTCACTTTGC
+  This set of LAMP primers could be used in 5 genomes, there are: MN433945.1, MN433944.1, MN433943.1, MN433942.1, MN433940.1
+The 5 LAMP primers:
+  F3: pos:1039,length:19 bp, primer(5'-3'):CAAAGAAACCAGAGCCAAA
+  F2: pos:1074,length:25 bp, primer(5'-3'):TACAAAGATCCTTACAAGATTTTGG
+  F1c: pos:1134,length:24 bp, primer(5'-3'):GCTCGACTCATCTCTCTTTTCTTT
+  B1c: pos:1160,length:20 bp, primer(5'-3'):GGACACATCCTCCAGTTCCT
+  B2: pos:1203,length:18 bp, primer(5'-3'):GGTCCTTCCCTGTTCTGT
+  B3: pos:1232,length:19 bp, primer(5'-3'):CGGTAGTCTCTGATCTGGT
+  This set of LAMP primers could be used in 5 genomes, there are: MN433945.1, MN433944.1, MN433942.1, MN433941.1, MN433940.1
+The 6 LAMP primers:
+  F3: pos:2772,length:21 bp, primer(5'-3'):CAAACAAATGGGCTTATTCCA
+  F2: pos:2809,length:18 bp, primer(5'-3'):TGGGAGTCCATCACCAAA
+  F1c: pos:2870,length:25 bp, primer(5'-3'):CCTAACAGATTTTCCATGAACTCCA
+  B1c: pos:2895,length:23 bp, primer(5'-3'):AGAAACAGAAAAGCTGACCTGGA
+  B2: pos:2961,length:18 bp, primer(5'-3'):CGTCCATCAGCTTGAGTT
+  B3: pos:2986,length:19 bp, primer(5'-3'):GGGACAAGATGTTTTGGGT
+  This set of LAMP primers could be used in 5 genomes, there are: MN433945.1, MN433944.1, MN433942.1, MN433941.1, MN433940.1
+The 7 LAMP primers:
+  F3: pos:2014,length:18 bp, primer(5'-3'):CCGATGCAACCTAGATCG
+  F2: pos:2047,length:22 bp, primer(5'-3'):CTGGTAGATGGTAGTATTTCCA
+  F1c: pos:2100,length:20 bp, primer(5'-3'):TGTAGTGGGGTCTGGACGTT
+  B1c: pos:2140,length:22 bp, primer(5'-3'):GAGTCTGAGACAGAATCGGAGA
+  B2: pos:2185,length:21 bp, primer(5'-3'):GATTTCTTCTTCACCAATCCA
+  B3: pos:2206,length:18 bp, primer(5'-3'):TCTTCCTGTTTGGTCTGG
+  This set of LAMP primers could be used in 4 genomes, there are: MN433943.1, MN433942.1, MN433941.1, MN433940.1
+The 8 LAMP primers:
+  F3: pos:4165,length:19 bp, primer(5'-3'):ACACAAGACAGAGGGAAGA
+  F2: pos:4202,length:18 bp, primer(5'-3'):CACAAGAACCCTCTGAGG
+  F1c: pos:4258,length:21 bp, primer(5'-3'):CACAGTATGGCCGATGATTCG
+  B1c: pos:4287,length:23 bp, primer(5'-3'):GGAAATCAAAAAGCCCGTCAAAC
+  B2: pos:4330,length:21 bp, primer(5'-3'):GATAGATAAAACCACGTCGAG
+  B3: pos:4360,length:18 bp, primer(5'-3'):AACCTTGATTGGTCGTCC
+  This set of LAMP primers could be used in 4 genomes, there are: MN433943.1, MN433942.1, MN433941.1, MN433940.1
+The 9 LAMP primers:
+  F3: pos:536,length:22 bp, primer(5'-3'):ACACCTTAGAAGTAGCCTTAAA
+  F2: pos:566,length:25 bp, primer(5'-3'):CCAAGCTATTTAAAGAAAACAAACC
+  F1c: pos:609,length:25 bp, primer(5'-3'):GGCTATCTCTTCTACCAGTCTCTTT
+  B1c: pos:634,length:22 bp, primer(5'-3'):CAGCAACCAAAGATCGTTGAGG
+  B2: pos:694,length:20 bp, primer(5'-3'):AGCTTCTCTACTTCCTTGAG
+  B3: pos:715,length:18 bp, primer(5'-3'):TTGGCCAAGATTGTGGAG
+  This set of LAMP primers could be used in 3 genomes, there are: MN433942.1, MN433941.1, MN433940.1
+The 10 LAMP primers:
+  F3: pos:1373,length:20 bp, primer(5'-3'):TGTCCATGCAAGAAAGAGCG
+  F2: pos:1399,length:19 bp, primer(5'-3'):GTGCCAGCTGAGGTACTGT
+  F1c: pos:1443,length:22 bp, primer(5'-3'):GCGATGGGTGTAGACTCTGTGG
+  B1c: pos:1469,length:22 bp, primer(5'-3'):AAGAATCCGTCCTGTGTGTCGG
+  B2: pos:1516,length:20 bp, primer(5'-3'):TCTAAGCTTTCGGGCTGGAT
+  B3: pos:1536,length:18 bp, primer(5'-3'):CCCGTCCTTTGCAGTTGT
+  This set of LAMP primers could be used in 3 genomes, there are: MN433942.1, MN433941.1, MN433940.1
