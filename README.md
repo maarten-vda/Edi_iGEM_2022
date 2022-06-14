@@ -22,10 +22,15 @@ genBankRecord_347868_CS_primers.txt
 The primer sets themselves are:
 Aligned_file_CS_primers.txt:
   F3: pos:6450,length:19 bp, primer(5'-3'):GAGTGGTTAGTTATGCCCT
+  
   F2: pos:6483,length:20 bp, primer(5'-3'):GCTCCTGCAGTATTTCAAAG
+  
   F1c: pos:6524,length:23 bp, primer(5'-3'):CAGCTATGAATTCTTCTGTGCCT
+  
   B1c: pos:6553,length:23 bp, primer(5'-3'):TTGATGACATCTTGGTCTTCAGC
+  
   B2: pos:6608,length:20 bp, primer(5'-3'):GGCAGATTGTTAGCATGATT
+  
   B3: pos:6642,length:24 bp, primer(5'-3'):ACATATTTTATTTGGGCTTAGGAC
 
 genBankRecord_347868_CS_primers.txt:
