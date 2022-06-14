@@ -1,3 +1,5 @@
+##Sorry this file is a bit messy now, its essentially just notes. I hope you can follow the gist, Ill clean it up in a bit and if youve got any questions just send me a message##
+
 ##Downloaded All Genomes from NCBI with Entrez##
 esearch -db nucleotide -query “Cacao swollen shoot virus AND complete genome” | efetch -format fasta > cssv_genomes.fasta
 
