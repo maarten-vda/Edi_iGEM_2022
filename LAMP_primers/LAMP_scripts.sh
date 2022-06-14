@@ -66,4 +66,13 @@ perl ./par.pl --in $filename --ref $genome --bowtie /usr/local/bin/bowtie --inde
 ./LAMP -in $filename -ref $genome -out ~/LAMP_primers/${filename}_CS_primers.txt -common -specific;\
 done;\
 
-
+##Make a python dictionary to figure out what combination works best##
+dict="{"
+for key in LAMP_primers/*;\
+do \
+names="cat $key | grep -m1 "are:" | sed 's/.*:\ //;s/,\ /\",\ \"/g'";\
+value=$(eval $names);\
+value=\"${value}\";\
+dict=${dict}\'${key}\'\:\ [${value}],\ ;\
+done
+echo $dict | rev | cut -c2- | rev | sed 's/$/}/' > primers_dict.txt
