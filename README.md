@@ -21,6 +21,7 @@ genBankRecord_347868_CS_primers.txt
 
 The primer sets themselves are:
 Aligned_file_CS_primers.txt:
+
   F3: pos:6450,length:19 bp, primer(5'-3'):GAGTGGTTAGTTATGCCCT
   
   F2: pos:6483,length:20 bp, primer(5'-3'):GCTCCTGCAGTATTTCAAAG
@@ -32,8 +33,10 @@ Aligned_file_CS_primers.txt:
   B2: pos:6608,length:20 bp, primer(5'-3'):GGCAGATTGTTAGCATGATT
   
   B3: pos:6642,length:24 bp, primer(5'-3'):ACATATTTTATTTGGGCTTAGGAC
+  
 
 genBankRecord_347868_CS_primers.txt:
+
   F3: pos:460,length:24 bp, primer(5'-3'):TAGTATACAAGAGTGGTATGAGAA
   
   F2: pos:485,length:18 bp, primer(5'-3'):TCACACACAGCAAACCTT
@@ -45,5 +48,6 @@ genBankRecord_347868_CS_primers.txt:
   B2: pos:610,length:21 bp, primer(5'-3'):TCTTGAATCTGCTTCAGGTTT
   
   B3: pos:638,length:20 bp, primer(5'-3'):ACACGGGTGTTTAATTCAAG
+  
   
 To find which pair of primer sets was the best I wrote a python script, its called multiplexity.py. To generate the primers themselves, look at LAMP_scripts.sh
